@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section
       id="hero"
-      className="relative overflow-hidden flex justify-center items-center"
+      className="mb-20 md:mb-0 relative overflow-hidden flex justify-center items-center"
     >
       {/* bg  */}
 
@@ -21,7 +21,7 @@ const Hero = () => {
             </p>
             <button
               type="button"
-              className="text-white bg-black border-2 rounded-lg p-3 font-medium w-45 mt-4 cursor-pointer hover:text-black hover:bg-white hover:border-black"
+              className="text-white bg-black border-2 rounded-lg p-3 font-medium w-35 md:w-45 mt-4 cursor-pointer hover:text-black hover:bg-white hover:border-black"
             >
               See My Work
             </button>

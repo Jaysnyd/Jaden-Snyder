@@ -10,3 +10,16 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Replace readme later
+
+Layout for portfolio page:
+
+1. Navbar
+2. Hero Section
+3. Projects
+4. Experience
+5. Skills - Dev tools, Languages, etc.
+6. Certifications
+7. Contact
+8. Resume - Only for Navbar - takes user straight to resume.pdf
